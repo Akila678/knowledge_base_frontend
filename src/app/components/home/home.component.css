@@ -1,0 +1,31 @@
+.btn {
+
+    background: linear-gradient(to right, #13568c, #20B2AA);
+    background-color: ;
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: padding 0.1s,
+                margin 0.1s;
+
+  }
+
+  .container {
+
+    margin-top: -200px;
+    background-color: #c9dbd9;
+  }
+
+  .btn:hover {
+
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+   
+  }
